@@ -1,6 +1,5 @@
 # UDallasBiostatistics_BIO-3345
- 
-# Biostatistics- Bio-3345
+
 # Professor: Dr Inimary Toby
 ## Email: itoby@udallas.edu
 
