@@ -1,8 +1,8 @@
 # UDallasBiostatistics_BIO-3345
  
-Biostatistics- Bio-3345
-Professor: Dr Inimary Toby
-Email: itoby@udallas.edu
+# Biostatistics- Bio-3345
+# Professor: Dr Inimary Toby
+## Email: itoby@udallas.edu
 
 # Course Overview
 Introduction to Biostatistics provides an introductory overview of selected important topics in biostatistical concepts and reasoning. This course represents an introduction to the field and provides a survey of data and data types. Specific topics include tools for describing central tendency and variability in data; methods for performing inference on population means and proportions via sample data; statistical hypothesis testing and its application to group comparisons; issues of power and sample size in study designs; and random sample and other study types.  Course work includes statistical analysis using the computer, homework assignments, case studies using demo datasets, and a final course project presenting results of analysis of biological data 
