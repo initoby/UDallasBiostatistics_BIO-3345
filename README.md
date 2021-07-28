@@ -19,3 +19,5 @@ Upon completion of the course, students should be able to:
 10)	Describe different types of studies
 11)	Understand confounding and interaction in studies
 12)	Apply the use of R-Studio and advanced Excel concepts to manipulate data and explore trends from a given dataset 
+# Data analysis with R studio using the Jupyterlab ecosystem
+https://blog.lifescitrc.org/pecop/2020/08/31/zoom-into-data-analysis-with-jupyterlab/
