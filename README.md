@@ -18,4 +18,4 @@ Upon completion of the course, students should be able to:
 9)	Choose an appropriate method for comparing proportions between two groups; construct a 95% confidence interval for the difference in population proportions
 10)	Describe different types of studies
 11)	Understand confounding and interaction in studies
-12)	Apply the use of Tableau and Excel to manipulate basic trends from a given dataset 
+12)	Apply the use of R-Studio and advanced Excel concepts to manipulate data and explore trends from a given dataset 
